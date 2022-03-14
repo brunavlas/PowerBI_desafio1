@@ -9,4 +9,4 @@ Criar um Dashboard no Power BI que responda as seguintes perguntas:
 
 Exercício realizado no curso de Power BI para Data Science ofertado pela [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science).
 
-<img alt="Readme" title="Dashboard-Pronto" src="C:\Users\bruna\Dashboard-Pronto.png" />
+<img alt="Dashboard-Vendas" title="Dashboard-Vendas" src="https://user-images.githubusercontent.com/98097913/158271955-ed66e5db-be51-4839-b3a4-a5a160e37435.png"/>
