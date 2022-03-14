@@ -8,3 +8,5 @@ Criar um Dashboard no Power BI que responda as seguintes perguntas:
 4. Qual segmento tem maior influência no valor médio de venda?
 
 Exercício realizado no curso de Power BI para Data Science ofertado pela [Data Science Academy](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science).
+
+<img alt="Readme" title="Dashboard-Pronto" src="C:\Users\bruna\Dashboard-Pronto.png" />
