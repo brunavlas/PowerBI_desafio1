@@ -1,4 +1,4 @@
-# PowerBI_desafio1
+# Power BI Desafio 1
 
 Criar um Dashboard no Power BI que responda as seguintes perguntas:
 
